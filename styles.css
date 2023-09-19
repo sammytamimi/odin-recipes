@@ -18,4 +18,9 @@ body {
 div {
     text-align: center;
     border: dotted;
+    color: aqua;
+}
+
+.li {
+    color: aqua;
 }
